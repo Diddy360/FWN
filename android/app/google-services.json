@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080399354110",
+    "project_id": "fwnproject-97966",
+    "storage_bucket": "fwnproject-97966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080399354110:android:204f284c01972ffb1aedaf",
+        "android_client_info": {
+          "package_name": "com.example.fwn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwwak7UMJHTUltoBeR9BqY4MQIZgeAt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
